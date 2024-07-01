@@ -1,0 +1,34 @@
+
+### Características para probar
+
+#### Ejemplo 1: Agnatos
+- Mandíbulas: No
+- Número de aletas: Impar
+- Esqueleto: Cartilaginoso
+- Escamas: Sí
+- Respiración: Branquial
+- Hábitat: Agua
+
+#### Ejemplo 2: Condricties
+- Mandíbulas: Sí
+- Número de aletas: Par
+- Esqueleto: Cartilaginoso
+- Escamas: Sí
+- Respiración: Branquial
+- Hábitat: Agua
+
+#### Ejemplo 3: Osteicties
+- Mandíbulas: Sí
+- Número de aletas: Par
+- Esqueleto: Óseo
+- Escamas: Sí
+- Respiración: Branquial
+- Hábitat: Agua
+
+#### Ejemplo 4: Anfibios
+- Mandíbulas: Sí
+- Número de aletas: No
+- Esqueleto: Óseo
+- Escamas: No
+- Respiración: Branquial
+- Piel: Lisa y

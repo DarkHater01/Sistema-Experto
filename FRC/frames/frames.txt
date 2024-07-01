@@ -1,0 +1,280 @@
+Frame: Agnatos
+- Características:
+  - Mandíbulas: No
+  - Número de aletas: Impar
+  - Esqueleto: Cartilaginoso
+  - Escamas: Sí
+  - Respiración: Branquial
+  - Hábitat: Agua
+- Ejemplos: Lamprea
+
+
+
+
+Frame: Condricties
+- Características:
+  - Mandíbulas: Sí
+  - Número de aletas: Par
+  - Esqueleto: Cartilaginoso
+  - Escamas: Sí
+  - Respiración: Branquial
+  - Hábitat: Agua
+- Ejemplos: Tollo, Tiburón, Raya
+
+
+
+
+Frame: Osteicties
+- Características:
+  - Mandíbulas: Sí
+  - Número de aletas: Par
+  - Esqueleto: Óseo
+  - Escamas: Sí
+  - Respiración: Branquial
+  - Hábitat: Agua
+- Ejemplos: Trucha
+
+
+
+
+Frame: Anfibios
+- Características:
+  - Mandíbulas: Sí
+  - Número de aletas: No
+  - Esqueleto: Óseo
+  - Escamas: No
+  - Respiración: Branquial
+  - Piel: Lisa y húmeda
+  - Temperatura: Variable
+  - Reproducción: Ovíparo
+  - Metamorfosis: Sí
+- Ordenes:
+  - Apodos:
+    - Características:
+      - Cola: No
+      - Cuerpo: Serpentiforme
+      - Miembros: No
+    - Ejemplos: Cecílidos, Sifonopsios Americanos
+  - Urodelos:
+    - Características:
+      - Cola: Sí
+      - Cuerpo: Alargado
+      - Miembros: Sí
+    - Ejemplos: Salamandra
+  - Anuros:
+    - Características:
+      - Cola: No
+      - Miembros: Bien desarrollados
+    - Subordenes:
+      - Fanerogloso:
+        - Lengua: Sí
+        - Ejemplos: Rana
+      - Agloso:
+        - Lengua: No
+        - Ejemplos: Pipa Americana
+
+
+
+
+
+Frame: Reptiles
+- Características:
+  - Mandíbulas: Sí
+  - Aletas: No
+  - Piel: Escamas duras
+  - Temperatura: Variable
+  - Respiración: Pulmonar
+  - Esqueleto: Óseo
+  - Reproducción: Ovíparo
+- Ordenes:
+  - Ofidios:
+    - Características:
+      - Cuerpo: Alargado
+      - Miembros: No
+    - Ejemplos: Boa, Serpiente de Cascabel, Yarar, Coral, Lampalagua, Culebra Verde, Falsa Coral, Culebra de Vientre Rojo
+  - Saurios:
+    - Características:
+      - Cuerpo: Prolongado
+      - Miembros: Cuatro
+    - Subordenes:
+      - Fusilingues:
+        - Ejemplos: Lagartos, Lagartijas
+      - Crasilingues:
+        - Ejemplos: Iguana, Dragón Volador
+      - Vermilingues:
+        - Ejemplos: Camaleón, Gecko
+      - Briviling:
+        - Ejemplos: Taracea
+  - Hidrosaurio:
+    - Características:
+      - Cuerpo: Gruesas placas
+      - Esternón: Muy largo
+    - Ejemplos: Cocodrilo, Caimán, Gaviar, Yacar
+  - Quelonios:
+    - Características:
+      - Cuerpo: Doble coraza
+    - Ejemplos: Tortuga Terrestre, Tortuga Marina, Tortuga Fluvial, Tortuga Palustre
+
+
+
+
+
+Frame: Aves
+- Características:
+  - Mandíbulas: Sí (Pico)
+  - Esqueleto: Óseo
+  - Aletas: No
+  - Escamas: No
+  - Respiración: Pulmonar
+  - Piel: Plumas
+  - Temperatura: Constante
+  - Reproducción: Ovíparo
+  - Poseen: Pico, Cloaca
+- Ordenes:
+  - Rátidas:
+    - Características:
+      - Patas: Carrera
+      - Vuelo: Deficiente
+      - Alas: Rudimentarias
+      - Quilla: No
+    - Ejemplos: Avestruz, Ñandú, Casuario, Emu, Perdiz Criolla, Martineta
+  - Carenadas:
+    - Características:
+      - Vuelo: Algunas especies
+      - Quilla: Sí
+      - Patas: Normales
+    - Subordenes:
+      - Palmípedas:
+        - Características:
+          - Patas: Palmeadas
+          - Plumaje: Espeso
+          - Habilidad: Nadar
+        - Ejemplos: Flamenco, Pingüino, Gaviota
+      - Zancudas:
+        - Características:
+          - Patas: Desnudas en la parte inferior
+          - Cuello: Largo
+          - Pico: Largo
+        - Ejemplos: Garza, Tero, Chorlito
+      - Gallináceas:
+        - Características:
+          - Pico: Fuerte con cera sobre la nariz
+          - Vuelo: Malo
+        - Ejemplos: Gallina, Gallina de Guinea, Pavo Real
+      - Palomas:
+        - Características:
+          - Pico: Débil sin cera
+          - Insensoras
+        - Ejemplos: Paloma, Zurita
+      - Trepadoras:
+        - Características:
+          - Pico: Encorvado o recto y fuerte
+          - Habilidad: Trepar árboles
+        - Ejemplos: Loro, Papagayos, Cacatúas
+      - Pájaros:
+        - Características:
+          - Pico: Recto o poco encorvado
+          - Vuelo: Bueno
+          - Insensoras
+        - Ejemplos: Martín Pescador, Colibrí, Hornero
+      - Rapaces:
+        - Características:
+          - Pico: Encorvado
+          - Vuelo: Bueno
+          - Garras: Robustos
+        - Ejemplos: Cóndor, Búho, Águila
+
+
+
+
+
+Frame: Mamíferos
+- Características:
+  - Mandíbulas: Sí
+  - Esqueleto: Óseo
+  - Respiración: Pulmonar
+  - Piel: Pelos
+  - Temperatura: Constante
+  - Escamas: No
+  - Glándulas mamarias: Sí
+- Ordenes:
+  - Monotremas:
+    - Características:
+      - Mamas: No pezones
+    - Ejemplos: Ornitorrinco
+  - Marsupiales:
+    - Características:
+      - Bolsa (Marsupio): Sí
+      - Glándulas mamarias: Dentro del marsupio
+    - Ejemplos: Comadrejas, Canguros
+  - Insectívoros:
+    - Características:
+      - Alimentación: Insectos
+      - Dientes: Molares erizados en punta
+    - Ejemplos: Erizos, Musarañas, Topos
+  - Edentados:
+    - Características:
+      - Alimentación: Frutas, hojas, insectos
+      - Dentadura: Incompleta
+      - Uñas: Largas y puntiagudas
+    - Subfamilias:
+      - Perezosos
+      - Armadillos
+      - Hormigueros
+  - Quirópteros:
+    - Características:
+      - Alimentación: Fruta, insectos, sangre
+      - Alas: Sí
+    - Subfamilias:
+      - Bermejizos
+      - Murciélagos
+  - Roedores:
+    - Características:
+      - Alimentación: Hierbas, desperdicios
+      - Dientes: Incisivos desarrollados, sin caninos
+    - Ejemplos: Ardilla, Marmota, Castor, Ratón
+  - Lagomorfos:
+    - Características:
+      - Alimentación: Hierbas, vegetales
+      - Dientes: Incisivos dobles, crecimiento continuo
+      - Garras: Sí
+    - Ejemplos: Conejo, Liebre
+  - Cetáceos:
+    - Características:
+      - Alimentación: Algas, peces
+    - Ejemplos: Delfín, Orca, Cachalote, Ballena
+  - Sirénidos:
+    - Características:
+      - Alimentación: Algas
+      - Extremidades: Anteriores como paletas
+    - Ejemplos: Manatí
+  - Proboscidios:
+    - Características:
+      - Alimentación: Vegetales
+      - Apéndice nasal: Trompa larga
+    - Ejemplos: Elefante
+  - Actiodáctilos:
+    - Características:
+      - Alimentación: Hierbas
+      - Dedos: Número par
+    - Ejemplos: Vicuña, Venados, Ganado vacuno
+  - Perisodáctilos:
+    - Características:
+      - Alimentación: Hierbas, vegetales
+      - Dedos: Número impar
+    - Ejemplos: Caballo, Asno, Tapir
+  - Carnívoros:
+    - Características:
+      - Alimentación: Carne
+      - Dientes: Especializados en desgarrar
+      - Garras: Sí
+    - Subordenes:
+      - Pinnípedos:
+        - Alimentación: Peces
+        - Ejemplos: Foca, Morsa, Lobo marino
+  - Primates:
+    - Características:
+      - Alimentación: Frutas
+      - Uñas: Planas
+      - Pulgar: Opuesto
+    - Ejemplos: Monos, Gorilas

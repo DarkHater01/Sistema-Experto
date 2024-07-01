@@ -1,0 +1,111 @@
+#Clase Agnatos
+IF
+  (Mandíbulas = No)
+  AND (Número de aletas = Impar)
+  AND (Esqueleto = Cartilaginoso)
+  AND (Escamas = Sí)
+  AND (Respiración = Branquial)
+  AND (Hábitat = Agua)
+THEN
+  Clase = Agnatos
+
+#Clase Condricties
+IF
+  (Mandíbulas = Sí)
+  AND (Número de aletas = Par)
+  AND (Esqueleto = Cartilaginoso)
+  AND (Escamas = Sí)
+  AND (Respiración = Branquial)
+  AND (Hábitat = Agua)
+THEN
+  Clase = Condricties
+
+#Clase Osteicties
+IF
+  (Mandíbulas = Sí)
+  AND (Número de aletas = Par)
+  AND (Esqueleto = Óseo)
+  AND (Escamas = Sí)
+  AND (Respiración = Branquial)
+  AND (Hábitat = Agua)
+THEN
+  Clase = Osteicties
+
+#Clase Anfibios
+IF
+  (Mandíbulas = Sí)
+  AND (Número de aletas = No)
+  AND (Esqueleto = Óseo)
+  AND (Escamas = No)
+  AND (Respiración = Branquial)
+  AND (Piel = Lisa y húmeda)
+  AND (Temperatura = Variable)
+  AND (Reproducción = Ovíparo)
+  AND (Metamorfosis = Sí)
+THEN
+  Clase = Anfibios
+
+#Subclasificación Anfibios - Orden Urodelos
+IF
+  (Clase = Anfibios)
+  AND (Cuerpo = Alargado)
+  AND (Cola = Sí)
+  AND (Miembros = Sí)
+THEN
+  Orden = Urodelos
+
+#Clase Reptiles
+IF
+  (Mandíbulas = Sí)
+  AND (Aletas = No)
+  AND (Piel = Escamas duras)
+  AND (Temperatura = Variable)
+  AND (Respiración = Pulmonar)
+  AND (Esqueleto = Óseo)
+  AND (Reproducción = Ovíparo)
+THEN
+  Clase = Reptiles
+
+#Subclase Reptiles - Orden Ofidios
+IF
+  (Clase = Reptiles)
+  AND (Cuerpo = Alargado)
+  AND (Miembros = No)
+THEN
+  Orden = Ofidios
+
+#Clase Aves
+IF
+  (Mandíbulas = Sí)
+  AND (Esqueleto = Óseo)
+  AND (Aletas = No)
+  AND (Escamas = No)
+  AND (Respiración = Pulmonar)
+  AND (Piel = Plumas)
+  AND (Temperatura = Constante)
+  AND (Reproducción = Ovíparo)
+  AND (Poseen = Pico y Cloaca)
+THEN
+  Clase = Aves
+
+#Aves - Orden Carenadas - Suborden Palmípedas
+IF
+  (Clase = Aves)
+  AND (Orden = Carenadas)
+  AND (Patas = Palmeadas)
+  AND (Plumaje = Espeso)
+  AND (Habilidad = Nadar)
+THEN
+  Suborden = Palmípedas
+
+#Clase Mamíferos
+IF
+  (Mandíbulas = Sí)
+  AND (Esqueleto = Óseo)
+  AND (Respiración = Pulmonar)
+  AND (Piel = Pelos)
+  AND (Temperatura = Constante)
+  AND (Escamas = No)
+  AND (Glándulas mamarias = Sí)
+THEN
+  Clase = Mamíferos
