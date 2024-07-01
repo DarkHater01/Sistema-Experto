@@ -1,0 +1,104 @@
+ INFORMACION SOBRE ALGUNAS CLASES Y ORDENES DE ANIMALES
+OBJETIVO: Dadas las características de una determinada especie, determinar la clase y el orden a 
+la que pertenece, así como ejemplos de especies pertenecientes a esa clase y orden.
+
+Los animales de la clase agnatos se caracterizan por no tener mandíbulas, un número impar de 
+aletas, el esqueleto es cartilaginoso, presentan escamas en la piel, lo que constituye una capa
+de protección para el animal y su respiración es branquial, por lo que su habitat es en el agua. 
+Una especie ejemplo de esta clase es la lamprea.
+ 
+La clase condricties se caracteriza porque presentan mandíbulas, por lo que tienen movimiento 
+en la boca, un número par de aletas, el esqueleto es cartilaginoso, tiene la piel protegida 
+por escamas y la respiración es branquial, por lo que viven en el agua. Ejemplos de animales que
+pertenecen a esta clase son el tollo, el tiburón y la raya.
+
+La clase osteicties es muy similar a la clase condricties pues presenta las mismas 
+características excepto que el esqueleto es óseo. Una especie ejemplo de esta clase es la trucha.
+   
+Los anfibios, sin embargo, se caracterizan por tener mandíbula, o sea tienen movimiento en la
+boca, no presentar aletas ni escamas, el esqueleto es óseo, la respiración es branquial para 
+vivir en el agua, la piel es lisa y húmeda, la temperatura del cuerpo es variable, realiza su 
+reproducción a través de huevos (son ovíparos) y realizan metamorfosis en su cuerpo. La 
+Metamorfosis consiste en el conjunto de transformaciones que sufre el animal hasta que alcance 
+la fase adulta. Dentro de la clase anfibios existe el orden Apodos. Los animales pertenecientes 
+a este orden no poseen cola y su cuerpo es serpentiforme y sin miembros. A este orden pertenecen
+los cecílidos y los sifonopsios americanos. Sin embargo, el orden Urodelos, también de la clase 
+anfibios se caracteriza por tener cuerpo alargado y cola larga y comprimida lateralmente. Un 
+ejemplar de este orden es la salamandra. La salamandra común es terrestre y nocturna, vive en       
+lugares húmedos, tiene el cuerpo vistoso, negro y amarillo y pierden las branquias en estado 
+adulto. Si el cuerpo de un anfibio presenta miembros bien desarrollados y no posee cola se puede 
+caracterizar como perteneciente al orden anuros. Los anuros que presentan lengua pertenecen al 
+suborden fanerogloso y los que no la tienen son del suborden agloso. Un ejemplo de agloso es la
+pipa americana y de fanerogloso la rana.
+
+Los reptiles presentan mandíbulas, no poseen aletas, la piel está cubierta por escamas duras, la
+temperatura del cuerpo es variable, la respiración es pulmonar, el esqueleto es óseo y se 
+reproducen por huevos. Cuando el cuerpo de los reptiles es alargado y sin miembros ellos 
+pertenecen al orden Ofidios. Especies que pertenecen a los ofidios son la boa, la serpiente de
+cascabel,la yarar , la coral, la boa, la lampalagua,la culebra verde, la falsa coral, la culebra
+de vientre rojo. Sin embargo, en el orden Saurios el cuerpo es prolongado con la presencia de 4 
+miembros. Este orden se subdivide en fusilingues que lo conforman los lagartos y las lagartijas,
+crasilingues que lo conforman la iguana y el dragón volador, vermilingues conformado por el 
+camaleón y el gecko y briviling que lo conforma la taracea. En el orden Hidrosaurio el cuerpo 
+está cubierto por gruesas placas, el esternón es muy largo y se extiende hasta el abdomen. 
+Ejemplares de este orden son el cocodrilo, el caimán, el gaviar y el yacar. El orden quelonios 
+se caracteriza por tener el cuerpo cubierto por una doble coraza. Entre las especies de los 
+quelonios están la tortuga terrestre, tortuga marina, tortuga fluvial y tortuga palustre.
+ 
+Las aves se caracterizan por presentar mandíbula, o sea, tienen movimiento es su pico, el 
+esqueleto es óseo, no poseen aletas ni escamas, la respiración es pulmonar, la piel está cubierta 
+de plumas, su cuerpo tiene temperatura constante, son ovíparas, poseen pico y cloaca. Dentro de 
+la clase aves las rátidas presentan patas apropiadas para la carrera, su vuelo es deficiente pues 
+sus alas son rudimentarias y no presentan quilla (esternón). Ejemplares de las rátidas son el
+Avestruz, el ñandú, el casuario, el emu, la perdiz criolla, martineta. En el orden carenadas 
+algunas especies pueden volar, todas presentan quilla y las patas son normales. Dentro del orden 
+carenadas se reconocen a las especies pertenecientes al suborden palmípedas por presentar patas 
+palmeadas, plumaje espeso y porque nadan. Ejemplos de palmípedas son el flamenco, el pinguino y la
+gaviota. Las pertenecientes al suborden zancudas tienen las patas desnudas en la parte inferior, 
+su plumaje es normal, el cuello es bien largo y el pico es también largo. Ejemplos de zancudas 
+son la garza, el tero y el chorlito. Las gallináceas constituyen también un suborden dentro de 
+las carenadas. Ellas tienen picos fuertes con cera sobre la nariza y son muy malas en el vuelo. 
+Ejemplos de gallináceas son la gallina, la gallina de guinea y el pavo real. El suborden palomas 
+de las carenadas tiene pico débil sin cera y son insensoras. Ejemplares de este suborden son la 
+paloma y la zurita. Las trepadoras constituyen un suborden muy similar a palomas, sólo se 
+diferencian en que su pico es encorvado o recto y fuerte. Se llaman así porque casi todas estas 
+aves trepan a los árboles. Entre las especies tenemos al loro, los papagayos y las cacatúas. El 
+suborden pájaros tiene pico recto o poco encorvado, son muy buenos en el vuelo y también son 
+insensoras. Ejemplos de pájaros son el martín pescador, el colibrí y el hornero. Si una especie 
+del orden carenadas tiene pico encorvado, es buena en el vuelo y presenta garras robustas 
+entonces es del orden rapaces. Ejemplares de este orden son el cóndor, el búho y el águila.
+
+Los mamíferos forman una clase caracterizada por poseer mandíbula, esqueleto óseo, respiración 
+pulmonar, la piel está cubierta de pelos, la temperatura de su cuerpo es constante, no presentan 
+escamas y sí poseen glándulas mamarias. Las especies del orden Monotremas se parecen mucho a los 
+reptiles y las mamas no presentan pezones. El ornitorrinco es del orden monotremas. Los 
+marsupiales, sin embargo, se caracterizan por tener una bolsa llamada marsupio en donde lleva y 
+alimenta a sus crias. Dentro del marsupio se encuentran las mamas. Entre los marsupiales se 
+encuentran las comadrejas y los canguros. Los insectívoros constituyen otro orden de los 
+mamíferos que se caracteriza por tener mamas normales, se alimentan de insectos y los dientes 
+son molares erizados en punta. Ejemplos de insectívoros son los erizos y las musarañas y los 
+topos. Los edentados también presentan las mamas normales, pero se alimentan de frutas, hojas e 
+insectos, su dentadura es incompleta y las uñas son largas y puntiagudas. Este orden se divide en 
+tres familias: los perezosos, los armadillos y los hormigueros. Por otra parte, los quirópteros 
+son mamíferos cuyas mamas son normales, se alimentan de fruta, insectos y sangre y tienen alas. 
+Ellos se dividen en dos familias: los bermejizos y los murciélagos. Los roedores, a su vez, 
+presentan también las mamas normales, pero se alimentan de hierbas y desperdicios y en sus 
+dientes se observa el desarrollo de incisivos y faltan caninos. Ejemplos de roedores son la 
+ardilla, la marmota, el castor y el ratón. El orden lagormorfo se caracteriza por tener mamas 
+normales, alimentarse de hierbas y vegetales, tener en su dentadura incisivos dobles y 
+crecimiento continuo de los dientes y presentar garras. Ejemplos de lagomorfos son el conejo y 
+la liebre. Los cetáceos tienen mamas normales y se alimentan de algas y peces. Ejemplos de 
+cetáceos son el delfín, la orca, el cachalote y la ballena Los sirénidos se parecen mucho a 
+los cetáceos pero sólo se alimentan de algas y sus extremidades anteriores son como especie de 
+paletas. Un sirénido es el manatí. Los proboscidios son mamíferos cuyas mamas son normales, se 
+alimentan de vegetales y presentan proboscidio en el cual el apéndice nasal está convertido en 
+una larga trompa o pico. Un proboscidio es el elefante. El orden actiodáctilos se caracteriza por 
+tener mamas normales, alimentarse de hierbas y tener un número par de dedos. A este orden 
+pertenecen vicuña, los venados y el ganado vacuno. Los perisodáctilos tienen las mismas 
+características que los actiodáctilos, pero se alimentan además de vegetales y tienen un número 
+impar de dedos. Ejemplos de perisodáctilos son el caballo, el asno, el tapir. Los carnívoros son 
+mamíferos cuyas mamas son normales, se alimentan de carne, por lo que los dientes están 
+especializados en desgarrar y tienen garras. Si un carnívoro sólo se alimenta de peces entonces
+pertenece al suborden pinnípedos. Entre estas especies tenemos a la foca, la morsa y el lobo 
+marino. Los primates tienen mamas normales, se alimentan de frutas, las uñas son planas y el 
+dedo pulgar se opone a los otros. Ejemplos de primates son los monos y los gorilas.
