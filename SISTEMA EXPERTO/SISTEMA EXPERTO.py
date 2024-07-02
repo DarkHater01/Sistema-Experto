@@ -1,4 +1,5 @@
 import tkinter as tk
+from tkinter import ttk
 from tkinter import messagebox
 
 # Definir las reglas de producción y frames
@@ -187,7 +188,7 @@ frames = [
         "Respiración": "Pulmonar",
         "Esqueleto": "Óseo",
         "Reproducción": "Ovíparo"
-    }, ["Boa", "Serpiente de Cascabel", "Yarar", "Coral"]),
+    }, ["Boa", "Serpiente de Cascabel", "Yarará", "Coral"]),
     Frame("Aves", {
         "Mandíbulas": "Sí (Pico)",
         "Esqueleto": "Óseo",
@@ -296,25 +297,44 @@ class InferenceEngine:
         }
         return alternate_values.get(value, value)
 
+
+
 class ExpertSystemGUI:
     def __init__(self, root, engine):
         self.root = root
         self.engine = engine
         self.root.title("Sistema Experto de Clasificación de Animales")
 
-        # Crear campos para ingresar características
+        # Opciones posibles para cada característica con un campo vacío agregado
+        self.options = {
+            "Mandíbulas": ["", "Sí", "No"],
+            "Número de aletas": ["", "Impar", "Par"],
+            "Esqueleto": ["", "Cartilaginoso", "Óseo"],
+            "Escamas": ["", "Sí", "No"],
+            "Respiración": ["", "Branquial", "Pulmonar"],
+            "Hábitat": ["", "Agua", "Tierra"],
+            "Piel": ["", "Lisa y húmeda", "Escamas duras", "Plumas", "Pelos"],
+            "Temperatura": ["", "Variable", "Constante"],
+            "Reproducción": ["", "Ovíparo", "Vivíparo"],
+            "Metamorfosis": ["", "Sí", "No"],
+            "Cuerpo": ["", "Alargado", "No alargado"],
+            "Cola": ["", "Sí", "No"],
+            "Miembros": ["", "Sí", "No"]
+        }
+
         self.entries = {}
-        for i, char in enumerate(["Mandíbulas", "Número de aletas", "Esqueleto", "Escamas", "Respiración", "Hábitat", "Piel", "Temperatura", "Reproducción", "Metamorfosis", "Cuerpo", "Cola", "Miembros"]):
-            tk.Label(root, text=char).grid(row=i, column=0)
-            entry = tk.Entry(root)
-            entry.grid(row=i, column=1)
-            self.entries[char] = entry
+        for i, char in enumerate(self.options.keys()):
+            tk.Label(root, text=char).grid(row=i, column=0, padx=5, pady=5, sticky=tk.W)
+            var = tk.StringVar(root)
+            combobox = ttk.Combobox(root, textvariable=var, values=self.options[char])
+            combobox.grid(row=i, column=1, padx=5, pady=5, sticky=tk.W)
+            self.entries[char] = var
 
         # Botón para ejecutar la inferencia
-        tk.Button(root, text="Inferir", command=self.infer).grid(row=len(self.entries), column=0, columnspan=2)
+        tk.Button(root, text="Inferir", command=self.infer).grid(row=len(self.entries), column=0, columnspan=2, pady=10)
 
     def infer(self):
-        characteristics = {char: entry.get() for char, entry in self.entries.items()}
+        characteristics = {char: var.get() for char, var in self.entries.items()}
         result = self.engine.heuristic_search(characteristics)
         if result:
             conclusion = ", ".join([f"{k}: {v}" for k, v in result.items()])
